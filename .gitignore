@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+compare_data/
+MATLAB/
+venv/
+root_files/
+*.env
+*.csv
+*.m
+
+*.ipynb
