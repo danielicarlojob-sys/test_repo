@@ -5,6 +5,7 @@ compare_data/
 MATLAB/
 venv/
 root_files/
+.token
 *.env
 *.csv
 *.m

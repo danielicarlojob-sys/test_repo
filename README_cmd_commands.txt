@@ -6,3 +6,4 @@ set up virtual enviroment:
     5 - install all modules requirements                                    pip install -r requirements.txt
 
 run tests:  PYTHONPATH=%cd% && pytest --testdox
+--- test mod for git hub ---
